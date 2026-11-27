@@ -5,7 +5,7 @@ analog joystick to move a dot around the screen. Button press shows a label.
 
 ## Demo
 
-https://github.com/ducttaperobotics/esp32pong/pictures/IMG_1169.mp4
+https://github.com/ducttaperobotics/esp32pong/blob/main/pictures/IMG_1169.mp4
 
 <!-- The line above renders as an inline video player on GitHub once USER/REPO
      is replaced with your actual repo path. Alternatively, drag the .mp4 into
